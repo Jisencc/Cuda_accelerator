@@ -1,2 +1,2 @@
 # Cuda_accelerator
-Try in C/C++ codes with Cuda programming for parallel calculation on GPU.
+Try to construct Cuda C/C++ codes for parallel calculation on GPU.
